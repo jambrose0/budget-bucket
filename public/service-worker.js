@@ -1,8 +1,8 @@
 const FILES_TO_CACHE = [
   "./index.html",
-  "./styles.css",
-  "./idb.js",
-  "./index.js",
+  "../css/styles.css",
+  "../js/idb.js",
+  "../js/index.js",
 ];
 
 const APP_PREFIX = "BudgetBucket-";
