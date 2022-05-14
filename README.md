@@ -8,7 +8,7 @@
 
 ## INSTALLATION
 
-> [The install button at the corner of the url bar](https://ancient-everglades-29857.herokuapp.com/)
+> [The install button at the corner of the url bar](https://safe-sierra-22456.herokuapp.com/)
 
 ## USAGE
 
